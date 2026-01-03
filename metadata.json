@@ -1,0 +1,7 @@
+{
+  "name": "Scribble AI - Smart Notepad",
+  "description": "A minimalist, AI-powered notepad that helps you summarize, brainstorm, and refine your thoughts using Gemini 3.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
